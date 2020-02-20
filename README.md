@@ -1,3 +1,5 @@
+##### kubectl apply -f deployment.yaml
+
 ### In GKE cloud shell run this command 
 For deployment  
 ##### kubectl create deployment hello-world-rest-api --image=micgogi/kuberimage:latest  
